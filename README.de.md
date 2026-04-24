@@ -157,7 +157,7 @@ Gebaut von **Jens Rusitschka** bei [kick & boost](https://kickboost.io).
 Ich baue AI-Workflows für Produktteams, die im echten Arbeiten tragen. Masterclass, Workshops, Begleitung. Teil der Design-Community seit 20 Jahren, eigene Erfahrungen mit Schreibschwächen. Dieses Thema hab ich verstanden, bevor ich es überhaupt recherchieren musste.
 
 - 🌐 [kickboost.io](https://kickboost.io)
-- 💼 [LinkedIn](https://www.linkedin.com/in/jensrusitschka/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/jensru/)
 
 Wenn diese Prompts verändert haben, wie du mit KI arbeitest, würde ich es gern hören.
 

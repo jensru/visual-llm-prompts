@@ -157,7 +157,7 @@ Built by **Jens Rusitschka** at [kick & boost](https://kickboost.io).
 I design AI workflows for product teams that actually hold up in real work. Masterclass, workshops, engagements. Part of the design community for 20 years, personal experiences with writing difficulties. I understood this topic before I even had to research it.
 
 - 🌐 [kickboost.io](https://kickboost.io)
-- 💼 [LinkedIn](https://www.linkedin.com/in/jensrusitschka/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/jensru/)
 
 If these prompts changed how you work with AI, I'd love to hear about it.
 

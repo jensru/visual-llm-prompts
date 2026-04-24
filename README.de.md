@@ -154,7 +154,7 @@ MIT. Nutzen, remixen, teilen. Attribution wird geschätzt.
 
 Gebaut von **Jens Rusitschka** bei [kick & boost](https://kickboost.io).
 
-Ich baue AI-Workflows für Produktteams, die im echten Arbeiten tragen. Masterclass, Workshops, Begleitung. Designer-Zunft seit 20+ Jahren. Zwei Söhne mit eigenen Leseschwächen. Dieses Thema hab ich verstanden, bevor ich es recherchieren musste.
+Ich baue AI-Workflows für Produktteams, die im echten Arbeiten tragen. Masterclass, Workshops, Begleitung. Teil der Design-Community seit 20 Jahren, eigene Erfahrungen mit Schreibschwächen. Dieses Thema hab ich verstanden, bevor ich es überhaupt recherchieren musste.
 
 - 🌐 [kickboost.io](https://kickboost.io)
 - 💼 [LinkedIn](https://www.linkedin.com/in/jensrusitschka/)

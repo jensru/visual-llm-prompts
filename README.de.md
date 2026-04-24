@@ -27,15 +27,18 @@
 
 ## 🧠 Warum es das gibt
 
-Designer sind die Berufsgruppe mit der **höchsten Prävalenz von Legasthenie**. In Kunst- und Designausbildung bis zu **4× so häufig** wie in der Allgemeinbevölkerung. Einzelne Kohorten erreichen 30 %. Fast die Hälfte aller Kreativprofis identifiziert sich als neurodivergent (Understood.org + 4A's, 2025).
+Diese Prompts helfen allen, die visuelle Antworten bevorzugen. Das sind viele Designer, Menschen mit Lese-Legasthenie, und Schnell-Denker-ohne-Lese-Geduld.
 
-Gleichzeitig ist das primäre Interface zu jedem LLM: **Text rein, Text raus**.
+**Was belegt ist:**
+Dyslexie-Prävalenz in der Allgemeinbevölkerung liegt bei 5 bis 15 %. In Kunst- und Designausbildung ist sie vier Mal höher, einzelne Kohorten erreichen 30 % (Wolff & Lundberg, 2002). Fast die Hälfte aller Kreativprofis identifiziert sich als neurodivergent (Understood.org + 4A's, via Neurobridge 2025).
 
-Und die beste Nutzung, die zuverlässig funktioniert, setzt flüssiges, schnelles Lesen voraus: Konzepte prüfen, bevor die KI baut. Das ist ein strukturelles Mismatch und wird in der Debatte fast nie benannt.
+**Was plausibel, aber nicht bewiesen ist:**
+Dass diese Zusammensetzung die langsamere KI-Adoption in Design-Teams erklärt. Die Studie dazu gibt es noch nicht.
 
-**Voice rein ist gelöst. Lesen ist die Bremse.**
+**Was sicher ist:**
+LLMs sind text-basiert. Reviewing-Arbeit setzt flüssiges Lesen voraus. Wer visuelle Antworten bekommt, arbeitet anders damit, als wer sich durch Prosa kämpft.
 
-Diese Prompts reißen die Bremse raus. Sie zwingen das Modell, visuell, strukturiert und dialogisch zu antworten, damit visuell Denkende Antworten im Format bekommen, das ihr Gehirn ohnehin bevorzugt.
+Genau dafür sind diese Prompts. Sie zwingen das Modell, visuell, strukturiert und dialogisch zu antworten, damit visuell Denkende Antworten im Format bekommen, das ihr Gehirn bevorzugt.
 
 ---
 

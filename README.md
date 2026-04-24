@@ -27,15 +27,18 @@
 
 ## 🧠 Why this exists
 
-Designers are the profession with the **highest documented prevalence of dyslexia**. In art and design education up to **4× higher** than in the general population. Individual cohorts reach 30 %. Nearly half of all creative professionals identify as neurodivergent (Understood.org + 4A's, 2025).
+These prompts help anyone who prefers visual answers. That includes many designers, people with reading-related dyslexia, and fast thinkers who find reading cumbersome.
 
-Meanwhile every LLM's primary interface is: **text in, text out**.
+**What's documented:**
+Dyslexia prevalence in the general population is 5 to 15 %. In art and design education it's four times higher, with individual cohorts reaching 30 % (Wolff & Lundberg, 2002). Nearly half of all creative professionals identify as neurodivergent (Understood.org + 4A's, via Neurobridge 2025).
 
-And the best practice for effective use — reviewing the concept the model proposes before it builds — assumes fluent, fast reading. That's a structural mismatch, and it's barely named in the industry debate.
+**What's plausible but not proven:**
+That this composition explains part of the slower AI adoption in design teams. The study for that hasn't been done.
 
-**Voice input is solved. Reading is the wall.**
+**What's certain:**
+LLMs are text-based. Review work assumes fluent reading. People who get visual answers work differently with AI than people fighting through prose walls.
 
-These prompts tear down that wall. By making the model output visual, structured, and dialog-oriented — so visual thinkers get answers in the format their brains already prefer.
+These prompts are built for that gap. They force the model to output visual, structured, and dialog-oriented content, so visual thinkers get answers in the format their brains already prefer.
 
 ---
 
